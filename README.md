@@ -1,3 +1,8 @@
+### Направления разработки:
+- Бэкенд (Django)
+- Парсинг
+- Telegram Api
+
 ### Стек:
 ![Static Badge](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/django-darkgreen?style=for-the-badge&logo=django&logoColor=white)
