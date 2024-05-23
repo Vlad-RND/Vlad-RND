@@ -41,8 +41,11 @@
 
 </p>
 
+## 💡 Пройденные курсы:
+<img height=18 src="https://avatars.mds.yandex.net/get-lpc/10116223/099a1ee1-39ec-40c8-97ed-f7b8548cf5f0/orig"/> <a href="https://disk.yandex.ru/i/qTGRKyDFHp_ZHA"> Python-разработчик (диплом - 2024) </a>
+
+<img height=18 src="https://stepik.org/static/frontend/topbar_logo.svg"/> <a href="https://stepik.org/cert/2152236"> Python: основы и применение (сертификат - 2023) </a>
+
 ## 📫 Мои контакты:
 <a href="https://t.me/VladRND61"><img src="https://img.shields.io/badge/vladrnd61-blue?style=for-the-badge&logo=telegram"/></a>
 <a href="mailto:vladislavvyt@yandex.ru"><img src="https://img.shields.io/badge/yandex_mail-yellow?style=for-the-badge"/></a>
-
-
