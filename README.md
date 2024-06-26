@@ -1,6 +1,6 @@
 <h1 align="center" class="heading-element" dir="auto">Привет, меня зовут Влад! </h1>
 <h3 align="center" class="heading-element" dir="auto">
-  🚀 Направления разработки - Бэкенд (Django), Парсинг, Telegram Api.
+  🚀 Направления разработки - Бэкенд (Django), Telegram Api.
 </h3>
 
 <h3 align="center" class="heading-element" dir="auto">
