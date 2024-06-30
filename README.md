@@ -47,6 +47,8 @@
 
 <img height=18 src="https://stepik.org/static/frontend/topbar_logo.svg"/> <a href="https://stepik.org/cert/2152236"> Python: основы и применение (сертификат - 2023) </a>
 
+<img height=18 src="https://stepik.org/static/frontend/topbar_logo.svg"/> <a href="https://stepik.org/cert/2511773"> Интерактивный тренажер по SQL (сертификат - 2024) </a>
+
 ## 📫 Мои контакты:
 <a href="https://t.me/VladRND61"><img src="https://img.shields.io/badge/vladrnd61-blue?style=for-the-badge&logo=telegram"/></a>
 <a href="mailto:vladislavvyt@yandex.ru"><img src="https://img.shields.io/badge/yandex_mail-yellow?style=for-the-badge"/></a>
