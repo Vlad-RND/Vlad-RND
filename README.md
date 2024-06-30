@@ -39,6 +39,7 @@
   ![Static Badge](https://img.shields.io/badge/github-g?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black)
   ![Static Badge](https://img.shields.io/badge/github_action-g?style=for-the-badge&logo=github%20actions&logoColor=blue&labelColor=white&color=white)
   ![Static Badge](https://img.shields.io/badge/bootstrap%205-bootstrap?style=for-the-badge&logo=bootstrap&logoColor=white&color=blue)
+  ![Static Badge](https://img.shields.io/badge/sql-sql?style=for-the-badge&logoColor=white&color=blue)
 
 </p>
 
